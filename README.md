@@ -158,7 +158,7 @@ The pre-trained checkpoint `mamba_poly_phase_aware_best_noise.pth` (~1.5 MB) is 
 ```bibtex
 @article{song2026bimamba,
   title   = {Phase-Consistent Signal Reconstruction for Bandwidth-Constrained Vibration Monitoring},
-  author  = {Song, Chao and Wang, Xun and Yang, Bailin},
+  author  = {...},
   journal = {…},
   year    = {2026}
 }
