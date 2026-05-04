@@ -1,7 +1,7 @@
 # Bi-S-Mamba: Phase-Consistent Signal Reconstruction
 
 Official code for the paper:  
-**"Phase-Consistent Signal Reconstruction for Bandwidth-Constrained Vibration Monitoring"**
+**"Phase-Consistent Signal Reconstruction for Bandwidth-Constrained Vibration Signals"**
 
 ---
 
